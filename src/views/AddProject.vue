@@ -77,5 +77,6 @@ export default {
         border: 0;
         border-radius: 6px;
         font-size: 16px;
+        cursor: pointer;
     }
 </style>
